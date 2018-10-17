@@ -1,0 +1,11 @@
+{
+  "name": "screeps-grunt-base",
+  "version": "1.0.0",
+  "description": "An empty Screeps project with basic grunt tasks preconfigured for beautifying, flattening, and uploading code.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgh2/screeps-grunt-base.git"
+  }
+}
